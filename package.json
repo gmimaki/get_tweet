@@ -1,0 +1,23 @@
+{
+  "name": "get_tweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-tweet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmimaki/get_tweet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmimaki/get_tweet/issues"
+  },
+  "homepage": "https://github.com/gmimaki/get_tweet#readme",
+  "dependencies": {
+    "nodemailer": "^4.6.3",
+    "twitter": "^1.7.1"
+  }
+}
